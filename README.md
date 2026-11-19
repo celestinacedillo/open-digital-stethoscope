@@ -41,7 +41,7 @@ The full list is in [`assembly/BOM_RevD_E73_JLCPCB.csv`](assembly/BOM_RevD_E73_J
 | `assembly/CPL_RevD_E73_JLCPCB.csv` | Pick-and-place file (JLCPCB format) |
 | `docs/Schematic_RevD_E73.pdf` | Schematic, 5 pages |
 | `source/easyeda/RevD_E73_PCB.epro2` | EasyEDA Pro PCB source |
-| `mechanical/RevD_E73.step` | 3D model of the assembled board, for enclosure design |
+| `mechanical/RevD_E73_step.zip` | 3D model (STEP, zipped) of the assembled board, for enclosure design |
 
 ## Ordering from JLCPCB
 
@@ -85,4 +85,6 @@ This source describes Open Hardware and is licensed under the CERN-OHL-S v2. See
 
 You may redistribute and modify this source and make products using it under the terms of the [CERN-OHL-S v2](https://ohwr.org/cern_ohl_s_v2.txt). This source is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE. Please see the CERN-OHL-S v2 for applicable conditions.
 
-Source location: add this repository's URL here after publishing. Under section 4.1 of the licence, products made from this source should carry this Source Location wherever practicable, for example on the PCB silkscreen or in the product documentation.
+Source location: https://github.com/celestinacedillo/open-digital-stethoscope
+
+Under section 4.1 of the licence, products made from this source should carry this Source Location wherever practicable, for example on the PCB silkscreen or in the product documentation.
